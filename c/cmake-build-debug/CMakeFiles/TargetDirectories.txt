@@ -1,0 +1,5 @@
+/home/wan/Codes/c/cmake-build-debug/CMakeFiles/calc.dir
+/home/wan/Codes/c/cmake-build-debug/CMakeFiles/hammingWeight.dir
+/home/wan/Codes/c/cmake-build-debug/CMakeFiles/isPowerOfTwo.dir
+/home/wan/Codes/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wan/Codes/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

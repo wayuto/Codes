@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/calc.dir/link.d CMakeFiles/calc.dir/calc.c.o -o calc

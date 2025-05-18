@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/wan/Codes/c/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/calc.dir/calc.c.o -c /home/wan/Codes/c/calc.c",
+  "file": "/home/wan/Codes/c/calc.c",
+  "output": "CMakeFiles/calc.dir/calc.c.o"
+},
+{
+  "directory": "/home/wan/Codes/c/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/hammingWeight.dir/hammingWeight.c.o -c /home/wan/Codes/c/hammingWeight.c",
+  "file": "/home/wan/Codes/c/hammingWeight.c",
+  "output": "CMakeFiles/hammingWeight.dir/hammingWeight.c.o"
+},
+{
+  "directory": "/home/wan/Codes/c/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/isPowerOfTwo.dir/isPowerOfTwo.c.o -c /home/wan/Codes/c/isPowerOfTwo.c",
+  "file": "/home/wan/Codes/c/isPowerOfTwo.c",
+  "output": "CMakeFiles/isPowerOfTwo.dir/isPowerOfTwo.c.o"
+}
+]

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/wan/Codes/cpp/build",
+  "command": "/usr/bin/g++  -I/home/wan/Codes/cpp/. -I/home/wan/Codes/cpp/morse -g -std=gnu++14 -o CMakeFiles/cpp.dir/morse/morse.cpp.o -c /home/wan/Codes/cpp/morse/morse.cpp",
+  "file": "/home/wan/Codes/cpp/morse/morse.cpp",
+  "output": "CMakeFiles/cpp.dir/morse/morse.cpp.o"
+},
+{
+  "directory": "/home/wan/Codes/cpp/build",
+  "command": "/usr/bin/g++  -I/home/wan/Codes/cpp/. -I/home/wan/Codes/cpp/morse -g -std=gnu++14 -o CMakeFiles/cpp.dir/abs.cpp.o -c /home/wan/Codes/cpp/abs.cpp",
+  "file": "/home/wan/Codes/cpp/abs.cpp",
+  "output": "CMakeFiles/cpp.dir/abs.cpp.o"
+},
+{
+  "directory": "/home/wan/Codes/cpp/build",
+  "command": "/usr/bin/g++  -I/home/wan/Codes/cpp/. -I/home/wan/Codes/cpp/morse -g -std=gnu++14 -o CMakeFiles/cpp.dir/pal.cpp.o -c /home/wan/Codes/cpp/pal.cpp",
+  "file": "/home/wan/Codes/cpp/pal.cpp",
+  "output": "CMakeFiles/cpp.dir/pal.cpp.o"
+},
+{
+  "directory": "/home/wan/Codes/cpp/build",
+  "command": "/usr/bin/g++  -I/home/wan/Codes/cpp/. -I/home/wan/Codes/cpp/morse -g -std=gnu++14 -o CMakeFiles/cpp.dir/point.cpp.o -c /home/wan/Codes/cpp/point.cpp",
+  "file": "/home/wan/Codes/cpp/point.cpp",
+  "output": "CMakeFiles/cpp.dir/point.cpp.o"
+},
+{
+  "directory": "/home/wan/Codes/cpp/build",
+  "command": "/usr/bin/g++  -I/home/wan/Codes/cpp/. -I/home/wan/Codes/cpp/morse -g -std=gnu++14 -o CMakeFiles/cpp.dir/pubpre.cpp.o -c /home/wan/Codes/cpp/pubpre.cpp",
+  "file": "/home/wan/Codes/cpp/pubpre.cpp",
+  "output": "CMakeFiles/cpp.dir/pubpre.cpp.o"
+},
+{
+  "directory": "/home/wan/Codes/cpp/build",
+  "command": "/usr/bin/g++  -I/home/wan/Codes/cpp/. -I/home/wan/Codes/cpp/morse -g -std=gnu++14 -o CMakeFiles/cpp.dir/sum.cpp.o -c /home/wan/Codes/cpp/sum.cpp",
+  "file": "/home/wan/Codes/cpp/sum.cpp",
+  "output": "CMakeFiles/cpp.dir/sum.cpp.o"
+}
+]

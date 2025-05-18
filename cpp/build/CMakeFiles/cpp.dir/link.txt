@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/cpp.dir/link.d CMakeFiles/cpp.dir/morse/morse.cpp.o CMakeFiles/cpp.dir/abs.cpp.o CMakeFiles/cpp.dir/pal.cpp.o CMakeFiles/cpp.dir/point.cpp.o CMakeFiles/cpp.dir/pubpre.cpp.o CMakeFiles/cpp.dir/sum.cpp.o -o cpp

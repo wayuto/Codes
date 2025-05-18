@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calc-Debug-2ae97d06cae707048ec5.json",
+					"name" : "calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hammingWeight::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hammingWeight-Debug-ceec944aa26d8d2c3be7.json",
+					"name" : "hammingWeight",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "isPowerOfTwo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-isPowerOfTwo-Debug-120a478edb76ede13353.json",
+					"name" : "isPowerOfTwo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wan/Codes/c/cmake-build-debug",
+		"source" : "/home/wan/Codes/c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
